@@ -1,2 +1,2 @@
-# LeetCode_Swift_Solutions
+# LeetCode Swift Solutions
  LeetCode Problems Solutions
